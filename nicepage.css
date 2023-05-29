@@ -41908,7 +41908,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 115px;
+  min-height: 96px;
 }
 
 .u-header .u-menu-1 {
@@ -41928,9 +41928,9 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-image-1 {
-  width: 172px;
-  height: 115px;
-  margin: -66px auto -30px 0;
+  width: 91px;
+  height: 96px;
+  margin: -66px auto -30px 42px;
 }
 @media (max-width: 1199px) {
   .u-header .u-menu-1 {
@@ -41938,8 +41938,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-image-1 {
-    width: 172px;
-    margin-top: -66px;
+    width: 91px;
   }
 }
 @media (max-width: 991px) {
@@ -41952,15 +41951,11 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 @media (max-width: 767px) {
-  .u-header .u-sheet-1 {
-    min-height: 171px;
+  .u-header .u-image-1 {
+    margin-top: -66px;
   }
 }
-@media (max-width: 575px) {
-  .u-header .u-sheet-1 {
-    min-height: 186px;
-  }
-}
+
  .u-footer {
   background-image: none;
   min-height: 128px;
