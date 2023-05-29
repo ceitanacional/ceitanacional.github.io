@@ -41942,20 +41942,52 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 @media (max-width: 991px) {
+  .u-header .u-sheet-1 {
+    min-height: 100px;
+  }
+
   .u-header .u-menu-1 {
     width: auto;
+    margin-top: 2px;
+    margin-right: 47px;
   }
 
   .u-header .u-image-1 {
-    margin-top: 20px;
+    margin-top: -64px;
+    margin-left: 39px;
   }
 }
 @media (max-width: 767px) {
+  .u-header .u-sheet-1 {
+    min-height: 68px;
+  }
+
+  .u-header .u-menu-1 {
+    margin-right: 45px;
+  }
+
   .u-header .u-image-1 {
-    margin-top: -66px;
+    width: 61px;
+    height: 64px;
+    margin-top: -48px;
+    margin-bottom: -14px;
+    margin-left: 45px;
   }
 }
+@media (max-width: 575px) {
+  .u-header .u-menu-1 {
+    margin-top: 4px;
+    margin-right: 52px;
+  }
 
+  .u-header .u-image-1 {
+    width: 58px;
+    height: 61px;
+    margin-top: -48px;
+    margin-bottom: -13px;
+    margin-left: 20px;
+  }
+}
  .u-footer {
   background-image: none;
   min-height: 128px;
